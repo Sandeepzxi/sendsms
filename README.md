@@ -58,7 +58,7 @@ smsintent/
 ```java
 /*
  * Program to create and design an android application Send SMS using Intent.
- * Developed by: <name>, Register Number: <reg no>
+ * Developed by: SANDEEP S, Register Number: 212223220092
  */
 package com.example.myapplication;
 
